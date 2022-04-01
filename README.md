@@ -1,6 +1,6 @@
 <!-- Título, Apresentação ... -->
 
-## Olá eu sou o Gustavo Ferreira, estudante de programação e tecnologia!
+## Olá! eu sou o Gustavo Ferreira
 
 <!--  Parte de status do GitHub no topo -->
 
