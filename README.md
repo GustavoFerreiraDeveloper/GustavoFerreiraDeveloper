@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavoferreiradeveloper">
-  <img max-width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoferreiradeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img max-width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferreiradeveloper&layout=compact&langs_count=7&theme=dracula"/>
+  <img max-width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoferreiradeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img max-width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferreiradeveloper&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <!-- Linha de logotípos das linguagens -->
