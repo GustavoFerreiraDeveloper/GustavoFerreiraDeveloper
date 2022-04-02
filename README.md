@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <!-- Gif de Backup: https://media.discordapp.net/attachments/959344173633392674/959520018637393960/VID-20220401-WA0079_AdobeCreativeCloudExpress.gif?width=452&height=452 -->
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959344235813961749/959537476425351218/ZEPETO_-8585527650865233618_AdobeCreativeCloudExpress.gif?width=452&height=452">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959344235813961749/959651966181584956/ZEPETO_-8585527379096632368_AdobeCreativeCloudExpress.gif">
   
 </div>
   
