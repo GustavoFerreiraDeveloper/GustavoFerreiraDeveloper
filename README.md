@@ -14,14 +14,13 @@
   
 <div style="display: inline_block"><br>
  
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gustavo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gustavo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gustavo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <!-- Gif de Backup: https://media.discordapp.net/attachments/959344173633392674/959520018637393960/VID-20220401-WA0079_AdobeCreativeCloudExpress.gif?width=452&height=452 -->
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959344235813961749/959651966181584956/ZEPETO_-8585527379096632368_AdobeCreativeCloudExpress.gif">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959344235813961749/959657230439956501/ZEPETO_-8585527364513609148_AdobeCreativeCloudExpress.gif">
   
 </div>
   
