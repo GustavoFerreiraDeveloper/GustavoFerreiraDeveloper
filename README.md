@@ -20,7 +20,7 @@
   
   <img align="center" alt="Gustavo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/959344235813961749/959657230439956501/ZEPETO_-8585527364513609148_AdobeCreativeCloudExpress.gif">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/975284120613711872/975284156495982592/ZEPETO-8585490109742909188-unscreen.gif">
   
 </div>
   
