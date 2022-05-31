@@ -20,7 +20,7 @@
   
   <img align="center" alt="Gustavo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://s8.gifyu.com/images/ZEPETO_-8585490109742909188_0__AdobeCreativeCloudExpress.gif">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://gifyu.com/image/SxrVI">
   
 </div>
   
