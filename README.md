@@ -20,7 +20,7 @@
   
   <img align="center" alt="Gustavo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="">
+ <!-- <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src=""> -->
   
 </div>
   
