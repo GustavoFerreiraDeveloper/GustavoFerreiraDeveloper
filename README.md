@@ -20,8 +20,6 @@
   
   <img align="center" alt="Gustavo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-    <img align="center" alt="Gustavo-JS" height="40" width="50" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png">
-  
  <!-- <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src=""> -->
   
 </div>
