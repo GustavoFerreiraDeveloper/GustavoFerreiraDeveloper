@@ -18,13 +18,13 @@
   
   <img align="center" alt="Gustavo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Gustavo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <!-- <img align="center" alt="Gustavo-React" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> -->
-
-  <!-- <img align="center" alt="Gustavo-Angular" height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png"> -->
+  <img align="center" alt="Gustavo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   
- <!-- <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src=""> -->
+  <img align="center" alt="Gustavo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
+  <img align="center" alt="Gustavo-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="https://4.bp.blogspot.com/-2Wc6r_5_BEs/U8mYA1VSbAI/AAAAAAABfKU/qNhoB-srZa0/s1600/139.gif">
   
 </div>
   
